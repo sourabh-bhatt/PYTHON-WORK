@@ -1,2 +1,2 @@
 # PYTHON-WORK
-Learning all the way from deep basics
+Learning all the way fromm deep basics
